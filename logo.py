@@ -1,0 +1,22 @@
+def top():
+    print("*************")
+
+def bottom():
+    print("      *")
+    print("  *************")
+    print("      *  *")
+    print("      *  *")
+    print("      *  *")
+    print("*    *   *")
+    print("  **    *")
+    print("     **")
+    print("   *     *")
+    print("  *     ")
+    print("  *")
+    print("  *")
+    print("  *")
+    print("   *     *")
+    print("     **")
+top()
+bottom()
+print("Jeffrey J. Cho")
